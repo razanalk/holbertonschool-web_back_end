@@ -1,0 +1,9 @@
+# Python - Async Comprehension
+
+This project focuses on asynchronous generators and asynchronous comprehensions in Python.
+
+## Learning Objectives
+
+- How to write an asynchronous generator
+- How to use async comprehensions
+- How to type-annotate generators
