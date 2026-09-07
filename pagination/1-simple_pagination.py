@@ -18,7 +18,7 @@ class Server:
 
     DATA_FILE = "Popular_Baby_Names.csv"
 
-    def __init__(self):
+        def __init__(self) -> None:
         """Initialize the server."""
         self.__dataset = None
 
